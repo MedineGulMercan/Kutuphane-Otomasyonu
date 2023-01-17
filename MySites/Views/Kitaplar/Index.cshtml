@@ -1,0 +1,52 @@
+﻿<!-- Start Content -->
+<div id="app">
+    <div class="container py-5">
+        <div class="row">
+
+            <div class="col-lg-3">
+                <h1 class="h2 pb-4">Kategoriler</h1>
+                <ul class="list-unstyled templatemo-accordion">
+                    <li><a class="text-decoration-none" href="#" v-on:click="KategoriyeGoreGetir(0)">Hepsi</a></li>
+                    <li v-for="item in Kategoriler"><a class="text-decoration-none" href="#" v-on:click="KategoriyeGoreGetir(item.id)">{{item.kategoriAdi}}</a></li>
+                </ul>
+            </div>
+
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="col-md-4" v-for="item in kitaplar">
+                        <div class="card mb-4 product-wap rounded-0">
+                            <div class="card rounded-0">
+                                <img class="card-img rounded-0 img-fluid" v-bind:src="item.kitapResimYolu" style="height:400px;">
+                                <div class="card-img-overlay rounded-0 product-overlay d-flex align-items-center justify-content-center">
+                                    <ul class="list-unstyled">
+                                        <li><a v-bind:href="'/KitapAyrinti/Index/'+ item.id" class="btn btn-success text-white mt-2"><i class="far fa-eye"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-body text-center">
+                                <a v-bind:href="'/KitapAyrinti/Index/'+ item.id" class="h3 text-decoration-none">{{item.kitapAdi}}</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                @*<div div="row">
+                <ul class="pagination pagination-lg justify-content-end">
+                <li class="page-item disabled">
+                <a class="page-link active rounded-0 mr-3 shadow-sm border-top-0 border-left-0" href="#" tabindex="-1">1</a>
+                </li>
+                <li class="page-item">
+                <a class="page-link rounded-0 mr-3 shadow-sm border-top-0 border-left-0 text-dark" href="#">2</a>
+                </li>
+                <li class="page-item">
+                <a class="page-link rounded-0 shadow-sm border-top-0 border-left-0 text-dark" href="#">3</a>
+                </li>
+                </ul>
+                </div>*@
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- End Content -->
+<script src="/PageEkstra/Kitaplar.js"></script>

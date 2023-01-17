@@ -1,0 +1,1189 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MySites.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MySites.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1-2022-11-18 00-08-33.jpeg",
+      "PackagePath": "staticwebassets\\Files\\1-2022-11-18 00-08-33.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-07 22-26-12.png",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-07 22-26-12.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-07 22-26-19.png",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-07 22-26-19.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-07 22-26-48.png",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-07 22-26-48.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-11 19-57-50.png",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-11 19-57-50.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-11 19-58-08.png",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-11 19-58-08.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-17 12-56-16.jpg",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-17 12-56-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-24 10-23-48.png",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-24 10-23-48.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1002-2022-12-24 10-37-54.jpg",
+      "PackagePath": "staticwebassets\\Files\\1002-2022-12-24 10-37-54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-17 12-38-24.jpg",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-17 12-38-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-17 12-47-40.jpg",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-17 12-47-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-17 12-48-41.png",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-17 12-48-41.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-17 12-49-07.jpg",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-17 12-49-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-17 12-53-38.jpg",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-17 12-53-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-17 12-55-14.jpg",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-17 12-55-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-24 10-27-53.jpg",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-24 10-27-53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-24 10-28-06.png",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-24 10-28-06.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1003-2022-12-24 10-28-11.png",
+      "PackagePath": "staticwebassets\\Files\\1003-2022-12-24 10-28-11.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1004-2022-12-17 16-49-22.png",
+      "PackagePath": "staticwebassets\\Files\\1004-2022-12-17 16-49-22.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1004-2022-12-17 16-50-00.jpg",
+      "PackagePath": "staticwebassets\\Files\\1004-2022-12-17 16-50-00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1005-2022-12-19 21-56-10.jpg",
+      "PackagePath": "staticwebassets\\Files\\1005-2022-12-19 21-56-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1006-2022-12-19 21-56-38.jpg",
+      "PackagePath": "staticwebassets\\Files\\1006-2022-12-19 21-56-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1007-2022-12-19 21-58-34.jpg",
+      "PackagePath": "staticwebassets\\Files\\1007-2022-12-19 21-58-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1007-2022-12-20 21-03-27.png",
+      "PackagePath": "staticwebassets\\Files\\1007-2022-12-20 21-03-27.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1007-2022-12-20 21-03-59.png",
+      "PackagePath": "staticwebassets\\Files\\1007-2022-12-20 21-03-59.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1007-2022-12-20 21-05-06.png",
+      "PackagePath": "staticwebassets\\Files\\1007-2022-12-20 21-05-06.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1008-2022-12-24 10-39-03.jpg",
+      "PackagePath": "staticwebassets\\Files\\1008-2022-12-24 10-39-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\1009-2022-12-24 10-39-10.jpg",
+      "PackagePath": "staticwebassets\\Files\\1009-2022-12-24 10-39-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-11-18 00-14-20.jpeg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-11-18 00-14-20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-17 12-55-01.png",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-17 12-55-01.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-33-01.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-33-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-33-36.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-33-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-34-03.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-34-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-34-09.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-34-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-34-31.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-34-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-35-26.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-35-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-37-21.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-37-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-38-28.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-38-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-39-29.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-39-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\2-2022-12-24 10-42-25.jpg",
+      "PackagePath": "staticwebassets\\Files\\2-2022-12-24 10-42-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\3-2022-11-18 00-18-02.jpeg",
+      "PackagePath": "staticwebassets\\Files\\3-2022-11-18 00-18-02.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\4-2022-11-26 21-25-40.png",
+      "PackagePath": "staticwebassets\\Files\\4-2022-11-26 21-25-40.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\4-2022-12-07 22-24-49.png",
+      "PackagePath": "staticwebassets\\Files\\4-2022-12-07 22-24-49.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\4-2022-12-07 22-25-10.png",
+      "PackagePath": "staticwebassets\\Files\\4-2022-12-07 22-25-10.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\5-2022-11-26 21-28-10.jpeg",
+      "PackagePath": "staticwebassets\\Files\\5-2022-11-26 21-28-10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\5-2022-11-26 21-29-26.jpeg",
+      "PackagePath": "staticwebassets\\Files\\5-2022-11-26 21-29-26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\5-2022-11-26 21-33-52.png",
+      "PackagePath": "staticwebassets\\Files\\5-2022-11-26 21-33-52.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\6-2022-12-05 10-16-36.png",
+      "PackagePath": "staticwebassets\\Files\\6-2022-12-05 10-16-36.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\Files\\6-2022-12-05 10-17-13.png",
+      "PackagePath": "staticwebassets\\Files\\6-2022-12-05 10-17-13.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Home.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Home.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Kat.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Kat.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Kategori.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Kategori.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Kitap.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Kitap.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\KitapAyrinti.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\KitapAyrinti.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Kitaplar.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Kitaplar.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Kitaplik.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Kitaplik.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Oda.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Oda.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\Raf.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\Raf.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\PageEkstra\\UyeOl.js",
+      "PackagePath": "staticwebassets\\PageEkstra\\UyeOl.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\apple-icon.png",
+      "PackagePath": "staticwebassets\\css\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\css\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\css\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\23880.jpg",
+      "PackagePath": "staticwebassets\\imgs\\23880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\imgs\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\advertising-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\advertising-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\advertising-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\advertising-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\advertising-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\advertising-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\advertising-4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\advertising-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\avatar.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\avatar5.png",
+      "PackagePath": "staticwebassets\\imgs\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\blog1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\blog2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\blog3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\branding-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\branding-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\branding-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\branding-4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\branding-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\branding-5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\branding-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\favicon.ico",
+      "PackagePath": "staticwebassets\\imgs\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\header.jpg",
+      "PackagePath": "staticwebassets\\imgs\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\web-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\web-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\web-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\web-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\web-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\web-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\imgs\\web-4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\web-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\js\\moment.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\sparkline.js",
+      "PackagePath": "staticwebassets\\js\\sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\js\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\js\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\abstracts\\mixins\\_shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\mixins\\_shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\abstracts\\mixins\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\mixins\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\johndoe.scss",
+      "PackagePath": "staticwebassets\\scss\\johndoe.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\osman\\OneDrive\\Masaüstü\\MySites\\MySites\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MySites.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MySites.props",
+      "PackagePath": "build\\MySites.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MySites.props",
+      "PackagePath": "buildMultiTargeting\\MySites.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MySites.props",
+      "PackagePath": "buildTransitive\\MySites.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

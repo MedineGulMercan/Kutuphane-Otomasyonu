@@ -1,0 +1,176 @@
+﻿<input id="gelenId" type="hidden" value="@ViewBag.Id" />
+<div id="app">
+    <!-- Open Content -->
+    <section class="bg-light">
+        <div class="container pb-5">
+            <div class="row">
+                <div class="col-lg-5 mt-5">
+                    <div class="card mb-3">
+                        <img class="card-img img-fluid" style="height:700px;" v-bind:src="kitap.kitapResimYolu" alt="Kitap Resim" id="product-detail">
+                    </div>
+                </div>
+                <!-- col end -->
+                <div class="col-lg-7 mt-5">
+                    <div class="card">
+                        <div class="card-body">
+                            <h1 class="h2">{{kitap.kitapAdi}}</h1>
+                            <p class="py-2">
+                                <span class="list-inline-item text-dark">{{yorumlar.length}} Yorum</span>
+                            </p>
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Yazar:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.kitapYazari}}</strong></p>
+                                </li>
+                            </ul>
+
+                            <h6>Kitap Konusu:</h6>
+                            <p>{{kitap.kitapKonusu}}</p>
+
+                            <h6>Kitap Özeti:</h6>
+                            <p>{{kitap.kitapOzeti}}</p>
+
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Kitap Sayfa Sayısı:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.kitapSayfaSayisi}}</strong></p>
+                                </li>
+                            </ul>
+
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Kitap Stok:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.kitapStok}}</strong></p>
+                                </li>
+                            </ul>
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Kitap Yayın Evi:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.kitapYayinEvi}}</strong></p>
+                                </li>
+                            </ul>
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Kat:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.katAdi}}</strong></p>
+                                </li>
+                            </ul>
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Oda:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.odaAdi}}</strong></p>
+                                </li>
+                            </ul>
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Kitaplık:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.kitaplikAdi}}</strong></p>
+                                </li>
+                            </ul>
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <h6>Raf:</h6>
+                                </li>
+                                <li class="list-inline-item">
+                                    <p class="text-muted"><strong>{{kitap.rafAdi}}</strong></p>
+                                </li>
+                            </ul>
+                            <div class="col d-grid">
+                                <button type="button" data-bs-toggle="modal" data-bs-target="#YorumModal" class="btn btn-success btn-lg">YORUM YAP</button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Close Content -->
+
+    <div class="modal fade" id="YorumModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-bs-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Yorum Yap </h5>
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-bs-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form v-on:submit.prevent="YorumYap">
+                    <div class="modal-body" style="color:black !important;">
+
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Yorum </label>
+                                    <textarea type="text" class="form-control" v-model="yorum" id="exampleInputEmail1" placeholder="Yorumunuzu Yazınız" required></textarea>
+                                </div>
+                            </div>
+                        </div><!--yorumYap-->
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                        <button type="submit" class="btn btn-primary">Kaydet</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Article -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row text-left p-2 pb-3">
+                <h4>Yorumlar</h4>
+            </div>
+
+            <!--Start Carousel Wrapper-->
+            <div id="carousel-related-product">
+
+                <div class="p-2 pb-3" v-for="item in yorumlar">
+                    <div class="product-wap card rounded-0">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h5 href="shop-single.html" class="h3 text-decoration-none">{{item.KullaniciAdi}}</h5>
+                                </div>
+                                <div class="col-md-6" v-if="item.UserId == @ViewBag.UserId">
+                                    <button class="btn btn-danger" type="button" v-on:click="Sil(item.Id)" style="float:right; width:50px; height:30px; font-size:12px;">SİL</button>
+                                </div>
+                            </div>
+                            
+                            
+                            <ul class="w-100 list-unstyled d-flex justify-content-between mb-0">
+                                <li class="pt-2">
+                                    <span class="product-color-dot color-dot-red float-left rounded-circle ml-1"></span>
+                                    <span class="product-color-dot color-dot-blue float-left rounded-circle ml-1"></span>
+                                    <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+                                    <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+                                    <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+                                </li>
+                            </ul>
+                            <p class="text-center mb-0">{{item.Metin}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!-- End Article -->
+<script src="/PageEkstra/KitapAyrinti.js"></script>

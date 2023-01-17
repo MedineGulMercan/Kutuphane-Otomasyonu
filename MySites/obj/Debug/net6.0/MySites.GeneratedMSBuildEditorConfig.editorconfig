@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MySites
+build_property.RootNamespace = MySites
+build_property.ProjectDir = C:\Users\MedineGul\Desktop\KutuphaneUygulamasi-main\MySites\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MedineGul\Desktop\KutuphaneUygulamasi-main\MySites
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/AdminHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Ib21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Education/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Experience/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Hakkimizda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Iletisim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Kat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/KitapAyrinti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBBeXJpbnRpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Kitaplar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Kitaplik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsaWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/KullaniciLogin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Oda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Raf/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFmXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Resepsiyon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXBzaXlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Skills/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MedineGul/Desktop/KutuphaneUygulamasi-main/MySites/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nmqdr1uxc3
